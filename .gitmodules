@@ -1,3 +1,0 @@
-[submodule "currency-exchange"]
-  path = currency-exchange
-  url = https://github.com/joreek/currency-converter.git
